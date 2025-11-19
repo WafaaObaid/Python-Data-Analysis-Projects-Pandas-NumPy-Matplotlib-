@@ -1,9 +1,9 @@
 # Python-Data-Analysis-Projects-Pandas-NumPy-Matplotlib-
-##About This Repository
+## About This Repository
 
 This repository contains several Python mini-projects created using Pandas, NumPy, and Matplotlib. Each project focuses on data analysis, data manipulation, and data visualization.
 
-##Projects Included
+## Projects Included
 
 Homeless Population Analysis
 A project that analyzes the number of homeless individuals, including data cleaning, calculations, and summary insights.
@@ -17,7 +17,7 @@ A project that works with temperature datasets, performing calculations, explori
 Visualization Examples
 A file that includes several visualization examples (plots, charts, etc.) created using Matplotlib to demonstrate basic visualization techniques.
 
-##Technologies Used
+## Technologies Used
 
 Python
 
@@ -27,6 +27,6 @@ NumPy
 
 Matplotlib
 
-##Purpose
+## Purpose
 
 These projects were created to practice data analysis skills and to improve abilities in handling datasets, performing computations, and building visualizations.
